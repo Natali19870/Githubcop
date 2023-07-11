@@ -1,0 +1,18 @@
+.info {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+h1 {
+    color: red;
+    font-size: 2em;
+}
+.img {
+width: 300px;
+display: inline-block;
+padding: 50px;
+}
+.text {
+font-style: normal;
+font-size: 1.5em;
+}
